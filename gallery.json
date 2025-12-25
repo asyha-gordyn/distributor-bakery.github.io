@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Roti Tawar",
+    "image": "images/roti.jpg",
+    "description": "Roti tawar lembut dan segar untuk kebutuhan harian.",
+    "category": "Roti",
+    "rating": 4.8,
+    "reviewCount": 126
+  },
+  {
+    "name": "Kue Manis",
+    "image": "images/kue.jpg",
+    "description": "Kue manis favorit untuk etalase warung.",
+    "category": "Kue",
+    "rating": 4.7,
+    "reviewCount": 98
+  }
+]
